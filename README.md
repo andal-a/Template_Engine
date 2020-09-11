@@ -2,7 +2,7 @@
 ## Summary:
 This command line application generates an HTML file that readily provides information about each member of a team including their role, contact information, and pedigree for easy access.
 
-![Template Engine Preview](/Assets/screenshot.png)
+![Template Engine Preview](/Assets/appPreview.png)
 
 ## User Story:
 ```
